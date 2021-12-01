@@ -31,7 +31,7 @@ def sendmessage(message):
         "text": {"content": message},
         "at": {
             "atMobiles": [
-                "15996120268"                                    #如果需要@某人，这里写他的手机号
+                "1599*******"                                    #如果需要@某人，这里写他的手机号
             ],
             "isAtAll": 1                                         #如果需要@所有人，这里写1
         }
