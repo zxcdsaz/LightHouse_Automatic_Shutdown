@@ -22,7 +22,7 @@ tgToken = os.environ["tgToken"]
 #钉钉机器人告警   
 def sendmessage(message):
     #修改为你自己的钉钉webhook
-    url = "https://oapi.dingtalk.com/robot/send?access_token=668be3e1870de2a850d11779451fe16404a2fca8215ea010210f1c150273ab7f"
+    url = "https://oapi.dingtalk.com/robot/send?access_token=*******"
     HEADERS = {
         "Content-Type": "application/json ;charset=utf-8"
     }
